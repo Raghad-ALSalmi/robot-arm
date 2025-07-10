@@ -31,13 +31,13 @@ This robotic arm model is designed to be used with servo motors for movement. Th
 Below are some images of the 3D model of the robotic arm:
 
 ### 3D Model Preview
-![Robot Arm Preview](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Screenshot%202025-07-09%20205920.png)
+![Robot Arm Preview](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/3D-Model-Preview.png)
 
 ### Detailed View
-![Robot Arm Side View](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Screenshot%202025-07-09%20205933.png)
+![Robot Arm Side View](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Detailed-View.png)
 
 ### Robotic Arm in Assembly
-![Robotic Arm Assembly](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Screenshot%202025-07-09%20205949.png)
+![Robotic Arm Assembly](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Robotic-Arm-in-Assembly.png)
 
 ### Requirements
 
