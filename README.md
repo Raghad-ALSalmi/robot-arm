@@ -31,13 +31,13 @@ This robotic arm model is designed to be used with servo motors for movement. Th
 Below are some images of the 3D model of the robotic arm:
 
 ### 3D Model Preview
-![Robot Arm Preview](https://github.com/SajaALfahmi/robot-arm/blob/main/3D%20Model%20Preview.png)
+![Robot Arm Preview](https://raw.githubusercontent.com/SajaALfahmi/robot-arm/main/3D%20Model%20Preview.png)
 
 ### Detailed View
-![Robot Arm Side View](https://github.com/SajaALfahmi/robot-arm/blob/main/Detailed%20View.png)
+![Robot Arm Side View](https://raw.githubusercontent.com/SajaALfahmi/robot-arm/main/Detailed%20View.png)
 
 ### Robotic Arm in Assembly
-![Robotic Arm Assembly](https://github.com/SajaALfahmi/robot-arm/blob/main/Robotic%20Arm%20in%20Assembly.png)
+![Robotic Arm Assembly](https://raw.githubusercontent.com/SajaALfahmi/robot-arm/main/Robotic%20Arm%20in%20Assembly.png)
 
 ## Requirements
 
@@ -47,4 +47,4 @@ Below are some images of the 3D model of the robotic arm:
 - Jumper wires
 - 3D Printing Materials (Filament)
 
-[Watch the video here](https://github.com/SajaALfahmi/robot-arm/blob/main/robot-arm-video.mp4)
+[Watch the video here](https://github.com/SajaALfahmi/robot-arm/blob/main/robot-arm-video.mp4?raw=true)
