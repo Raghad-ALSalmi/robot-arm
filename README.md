@@ -13,16 +13,16 @@ This robotic arm model is designed to be used with servo motors for movement. Th
 
 ## How to Use
 
-1. Download the 3D Model Files:
+1. **Download the 3D Model Files**:
    - Download the STL or CAD files from the repository.
 
-2. 3D Printing:
+2. **3D Printing**:
    - Use a 3D printer to print all parts of the robotic arm. Ensure that you use high-quality filament for durability.
 
-3. Assembly:
+3. **Assembly**:
    - Follow the assembly instructions (available in the repository or on the project wiki) to assemble the parts of the robotic arm.
 
-4. Programming (Optional):
+4. **Programming (Optional)**:
    - Integrate servo motors to control the arm.
    - Write a program to control the arm's movements using an Arduino or a Raspberry Pi.
 
@@ -31,15 +31,15 @@ This robotic arm model is designed to be used with servo motors for movement. Th
 Below are some images of the 3D model of the robotic arm:
 
 ### 3D Model Preview
-![Robot Arm Preview](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/3D-Model-Preview.png)
+![Robot Arm Preview](https://github.com/SajaALfahmi/robot-arm/blob/main/3D%20Model%20Preview.png)
 
 ### Detailed View
-![Robot Arm Side View](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Detailed-View.png)
+![Robot Arm Side View](https://github.com/SajaALfahmi/robot-arm/blob/main/Detailed%20View.png)
 
 ### Robotic Arm in Assembly
-![Robotic Arm Assembly](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Robotic-Arm-in-Assembly.png)
+![Robotic Arm Assembly](https://github.com/SajaALfahmi/robot-arm/blob/main/Robotic%20Arm%20in%20Assembly.png)
 
-### Requirements
+## Requirements
 
 - 3D Printer
 - Servo Motors (for motion control)
@@ -47,4 +47,4 @@ Below are some images of the 3D model of the robotic arm:
 - Jumper wires
 - 3D Printing Materials (Filament)
 
-[Watch the video here](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/Recording%202025-07-09%20205633.mp4)
+[Watch the video here](https://github.com/SajaALfahmi/robot-arm/blob/main/robot-arm-video.mp4)
