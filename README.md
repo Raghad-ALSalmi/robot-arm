@@ -36,10 +36,10 @@ Below are some images of the 3D model of the robotic arm:
 ![Robot Arm Preview](https://raw.githubusercontent.com/Raghad-ALSalmi/robot-arm/main/3D-Model-Preview.png)
 
 ### Detailed View
-![Robot Arm Side View](https://raw.githubusercontent.com/Raghad-ALSalmi/robot-arm/main/Detailed%20View.png)
+![Robot Arm Side View](https://raw.githubusercontent.com/Raghad-ALSalmi/robot-arm/main/Detailed-View.png)
 
 ### Robotic Arm in Assembly
-![Robotic Arm Assembly](https://raw.githubusercontent.com/Raghad-ALSalmi/robot-arm/main/Robotic%20Arm%20in%20Assembly.png)
+![Robotic Arm Assembly](https://raw.githubusercontent.com/Raghad-ALSalmi/robot-arm/main/Robotic-Arm-in-Assembly.png)
 
 ---
 
