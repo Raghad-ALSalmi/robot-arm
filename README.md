@@ -44,9 +44,7 @@ Below are some images of the 3D model of the robotic arm:
 ---
 
 ## 📹 Watch the Demo
-<video src="https://github.com/SajaALfahmi/robot-arm/blob/main/robot-arm-video.mp4?raw=true" controls width="600">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the video](https://github.com/Raghad-ALSalmi/robot-arm/blob/main/robot-arm-video.mp4?raw=true)
 
 ---
 
